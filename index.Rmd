@@ -2,5 +2,4 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
-Test once again
+Welcome to the first ever website made by me.
