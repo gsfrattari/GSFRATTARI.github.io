@@ -2,9 +2,9 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>
 
-## Header
+## My CV
 
 2022-: PhD student
 2021-2022: Research assistent
